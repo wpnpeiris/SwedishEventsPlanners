@@ -1,5 +1,5 @@
-# SEP
-Swedish Events Planners - Software Engineering Project work
+# SwedishEventsPlanners
+Project - Modern Methods in Software Engineering
 
 ## About
 SEP is the project assignment for the course of ID2207 - Modern Methods in Software Engineering.
